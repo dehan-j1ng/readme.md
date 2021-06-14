@@ -11,7 +11,7 @@
 ![GitHub Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Dehante&layout=compact&theme=highcontrast)
 <br>
 <p align="center">
-<a href="https://dhn-api.herokuapp.com/api"><img alt="Rest Api" width="50%" src="https://img.shields.io/badge/Dhn`Api-blue?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+<a href="https://dhn-api.herokuapp.com/api"><img alt="Rest Api" width="117px" src="https://img.shields.io/badge/Dhn`Api [-blue?style=for-the-badge&logo=heroku&logoColor=white"/></a><a href="https://github.com/dehan-j1ng/De-BOTZ"><img title="De-BOTZ Script" width="" src="https://img.shields.io/badge/-] De--BOTZ-red?colorA=%ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 # Bahan
@@ -37,15 +37,10 @@ $ bash install.sh
 $ termux-setup-storage && pkg update && pkg upgrade && pkg install git && git clone https://github.com/dehan-j1ng/De-BOTZ && cd De-BOTZ && bash install.sh
 ```
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px"> Get Apikey here
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px"> Promosi🛐
 | Api Rest | LINK |
 |--------|--------|
 | **Dhn-Api** |[HERE](https://dhn-api.herokuapp.com/api) |
-
-
-<p align="center">
-<a href="#"><img title="De-BOTZ Script" src="https://img.shields.io/badge/-De--BOTZ-red?colorA=%ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
 
 ## Features
 |  Full Scrap |✅|
@@ -53,8 +48,7 @@ $ termux-setup-storage && pkg update && pkg upgrade && pkg install git && git cl
 
 ## Hooh
 <p align="center">
- <a href="https://instagram.com/dehan_j1ng"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a>
- <a href="https://wa.me/+6281342474954"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://instagram.com/dehan_j1ng"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+6281342474954"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
  <a href="https://youtube.com/channel/UCQ5vr4WbsabL5JMZV73mKWg"><img src="https://img.shields.io/badge/YouTube-ンテ Dehanjing-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCQ5vr4WbsabL5JMZV73mKWg" />
  <a name=Dehante&label=VIEWS&style=flat-square&color=red"/>
 </p>
