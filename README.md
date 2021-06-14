@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/dehan-j1ng/readm/blob/main/awikwok.gif" width="40%" height="50%" alt="Owner De-BOTZ"/>
+    <img src="https://github.com/dehan-j1ng/readm/blob/main/awikwok.gif" width="54%" height="50%" alt="Owner De-BOTZ"/>
     <br>
     <a href="https://github.com/Dehante"><img title="Owner" src="https://img.shields.io/badge/Owner-De`BOTZ-black?style=for-the-badge&logo=windows"></a>
 </p>
