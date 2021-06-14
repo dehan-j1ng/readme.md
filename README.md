@@ -9,9 +9,10 @@
 </p>
 
 ![GitHub Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Dehante&layout=compact&theme=highcontrast)
-<a href="https://github.com/Dehante/dhnbasicv1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dehante&repo=dhnbasicv1&theme=highcontrast" />
-</a>
+<br>
+<p align="center">
+<a href="https://dhn-api.herokuapp.com/api"><img alt="Rest Api" width="50%" src="https://img.shields.io/badge/Dhn`Api-blue?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+</p>
 
 # Bahan
 ```bash
